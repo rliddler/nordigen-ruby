@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # Specify your gem's dependencies in nordigen.gemspec
 gemspec
 
-gem "faraday", "~> 2.5"
+gem "faraday", "~> 1.10"
 
 group :development do
   gem "rake", "~> 13.0"
